@@ -30,6 +30,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewholder> {
         this.context = context;
         this.list = list;
         isCheck = new HashMap<>();
+
     }
 
     @Override
